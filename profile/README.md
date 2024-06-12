@@ -1,4 +1,4 @@
-﻿<img src="./profile/images/github-header-image.png">
+﻿<img src="./images/github-header-image.png">
 
 
 How to Build MS-DOS and Windows
