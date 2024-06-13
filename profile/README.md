@@ -57,6 +57,8 @@ How to Build MS-DOS and Windows
 
 <p>HERE IS WHERE YOU CAN OBTAIN WINDOWS SOURCE CODE FROM THE SHARED SOURCE INITIATIVE <a href="https://www.microsoft.com/en-us/sharedsource/">HERE.</a></p>
 
+<p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">My Visual Studio Extension in the Makrketplace 'Javascript Essentials'</a></li>
+
 <h2>How to obtain a Enterprise Agreement</h2>
 <ul>
 <li><a href="https://www.microsoft.com/licensing/docs/view/Products/Software-products">Licencing Documents</a></li>
