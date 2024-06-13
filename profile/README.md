@@ -64,6 +64,7 @@ How to Build MS-DOS and Windows
 <li><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/azure-billing-enterprise-agreement">Plan for Enterprise Agreement enrollment</a></li>
 <li><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/ea-direct-portal-get-started">Get started with your Enterprise Agreement billing account</a></li>
 <li><a href="https://www.microsoft.com/en-us/sharedsource/enterprise-source-licensing-program.aspx">Enterprise Source Licensing Program</a></li>
+<li><a href="https://learn.microsoft.com/en-us/visualstudio/subscriptions/buy-activate-retail"></a>Visual Studio subscriptions are available through the Microsoft Store</li>
 <li><a href="https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2019">Windows 10 Enterprise LTSC 2019</a>
 <li>You must own a Enterprise Product to have a Enterprise Agreement with a EULA and at least 5 PC's</li>
 </ul>
