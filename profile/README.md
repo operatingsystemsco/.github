@@ -53,11 +53,13 @@ How to Build MS-DOS and Windows
 <li><a target="_self" href="https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed">The Supreme Court pared down a controversial anti-hacking law</a></li>
 </ul>
 
+<h2>My Visual Studio Extension in the Makrketplace</h2>
+
+<p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
+
 <p>YOU NEED A 600 GIGABYTE VIRTUAL MACHINE TO COMPLETE THIS TUTORIAL</p>
 
 <p>HERE IS WHERE YOU CAN OBTAIN WINDOWS SOURCE CODE FROM THE SHARED SOURCE INITIATIVE <a href="https://www.microsoft.com/en-us/sharedsource/">HERE.</a></p>
-
-<p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">My Visual Studio Extension in the Makrketplace 'Javascript Essentials'</a></li>
 
 <h2>How to obtain a Enterprise Agreement</h2>
 <ul>
