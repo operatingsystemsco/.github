@@ -52,6 +52,7 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://scholar.google.com/citations?user=aBc-Oc8AAAAJ&hl=en">My Google Scholar</a></li>
 <li><a target="_self" href="https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed">The Supreme Court pared down a controversial anti-hacking law</a></li>
 </ul>
+<p>According to Andrew Tanumbuam top down Operating System design is best, bottom up is more practical</p>
 
 <h2>My Visual Studio Extension in the Makrketplace</h2>
 
