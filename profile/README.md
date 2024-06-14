@@ -96,9 +96,8 @@ How to Build MS-DOS and the Windows Operating System
 <p>Liquity Value</p>
 <ul>
 <li><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value definition</a></li>
+<li><a href="https://www.investopedia.com/terms/n/noi.asp">Net Operating Income For Real Estate</a></li>
 </ul>
-
-
 
 <p>Microsoft has one mailing list for the Microsoft Research introductory project 'Detours'</p>
 
