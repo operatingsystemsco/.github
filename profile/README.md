@@ -657,7 +657,7 @@ find Vista Microsoft Research Papers.</pre>
 <pre>I know there were alot of Windows 10 versions but the only dev version that is complete is version 10.0.18362.1</pre>
 <a target="_self" href="https://gist.github.com/msrose/2feacb303035d11d2d05" data-test-app-aware-link="">Combining two git repositories</a>
 <p>For right now make a WinFX Lab05_n Buffer out of the .NET Platform on GitHub. Do not clone my repositories clone Microsoft's. Use the Windows Enterprise Driver Kit for completed
-production work in Windows Kits. Hopefully for 62 year old retirees. /p>
+production work in Windows Kits. Hopefully for 62 year old retirees. </p>
 <a target="_self" href="https://github.com/dotnet">.NET Platform</a>
 
 <pre>Download you Windows Server 2022 SDK & WDK Supscription Only</pre> 
