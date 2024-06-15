@@ -663,7 +663,7 @@ find Vista Microsoft Research Papers.</pre>
 <li><strong>winblue</strong> - <a target="_self" href="https://betawiki.net/wiki/Windows_8.1" data-test-app-aware-link="">Windows 8.1</a>, <a target="_self" href="https://betawiki.net/wiki/Windows_Server_2012_R2" data-test-app-aware-link="">Windows Server 2012 R2</a></li><p><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/develop/installing-the-wdk-build-environment-in-a-lab">Installing the WDK 8.1 Build Environment in a Lab</a></p>
 </ul>
 <h2>Windows 10</h2>
-<p>Clone the .NET Platform from github make copies choose the 'runtime' as the NT directory and change the 'src' directory to 'private' and copy the .NET Platform over top the other projects.
+<p>Clone the .NET Platform from github make copies choose the 'runtime' as the NT directory and change the $LibrariesProjectRoot directory to 'private' and copy the .NET Platform over top the other projects.
 <pre>I know there were alot of Windows 10 versions but the only dev version that is complete is version 10.0.18362.1</pre>
 <a target="_self" href="https://gist.github.com/msrose/2feacb303035d11d2d05" data-test-app-aware-link="">Combining two git repositories</a>
 <ul>
