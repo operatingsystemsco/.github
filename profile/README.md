@@ -33,9 +33,10 @@ How to Build MS-DOS and the Windows Operating System
 <p>Here is how to build MS-DOS 1.25 with the build disk: Download the build disk. Create a new virtual machine using your favorite emulator or hypervisor. Add a floppy drive, load the build disk. Start the virtual machine (it should boot from the build disk). Check the filenames using the DIR command and it should return: Type in MK <FILENAME> to assemble that particular component or MK ALL to assemble everything. Once you have everything assembled, type in DIR *.COM and DIR *.SYS to see the executable produced, it should be similar to: You have done it! You can now copy those executables to another disk or extract them or run them!
 </p>
 
-<h2>Please Sign the Sphinx Logic CLA<h2>
+<h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
 <li><a target="_self" href="https://cla-assistant.io/">cla assistant</a></li>
+<li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 </ul>
 
 <h2>Biography</h2>
