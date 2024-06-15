@@ -615,7 +615,7 @@ Your post-FBA CD-ROM is your bootable CD-ROM. You can immediately deploy this CD
  
 If the target directory is not empty, Target Designer prompts you to confirm the deletion of the directory.
 
-<h2>Windows Vista and Beyond</h2>
+<h2>Windows Vista</h2>
 <p>In a free build the kernel may not build you may have to to use the Windows Research Kernel. Microsoft does not give you the source to WinLogon even in the SSLIP. It's named Winlogon.exe.lc</p>
 <p>A <strong>build lab</strong> (or simply a <strong>lab</strong>) commonly refers to a <a target="_self" href="https://betawiki.net/wiki/Microsoft_Windows" data-test-app-aware-link="">Microsoft Windows</a> source code branch. By extension, it can also refer to the team that works on this branch. </p>
 <p> Microsoft has used multiple prefixes to refer to feature branches over time:</p>  
@@ -661,7 +661,8 @@ find Vista Microsoft Research Papers.</pre>
 <li><strong>win8</strong> - <a target="_self" href="https://betawiki.net/wiki/Windows_8" data-test-app-aware-link="">Windows 8</a>, <a target="_self" href="https://betawiki.net/wiki/Windows_Server_2012" data-test-app-aware-link="">Windows Server 2012</a></li>
 <li><strong>winblue</strong> - <a target="_self" href="https://betawiki.net/wiki/Windows_8.1" data-test-app-aware-link="">Windows 8.1</a>, <a target="_self" href="https://betawiki.net/wiki/Windows_Server_2012_R2" data-test-app-aware-link="">Windows Server 2012 R2</a></li><p><a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/develop/installing-the-wdk-build-environment-in-a-lab">Installing the WDK 8.1 Build Environment in a Lab</a></p>
 </ul>
-
+<h2>Windows 10</h2>
+<p>Clone the .NET Platform from github make copies choose the 'runtime' as the NT directory and change the 'src' directory to 'private' and copy the .NET Platform over top the other projects.
 <pre>I know there were alot of Windows 10 versions but the only dev version that is complete is version 10.0.18362.1</pre>
 <ul>
 <li><strong>19h1</strong> - <a target="_self" href="https://betawiki.net/wiki/Windows_10_May_2019_Update" data-test-app-aware-link="">Windows 10 May 2019 Update</a>, <a target="_self" href="https://betawiki.net/wiki/Windows_10_November_2019_Update" data-test-app-aware-link="">Windows 10 November 2019 Update</a></li>
