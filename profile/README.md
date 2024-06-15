@@ -38,6 +38,7 @@ How to Build MS-DOS and the Windows Operating System
 <ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
+<li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab</a></li>
 </ul>
 
 <h2>Acedemia</h2>
