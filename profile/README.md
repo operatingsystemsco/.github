@@ -32,7 +32,8 @@ How to Build MS-DOS and the Windows Operating System
 
 <p>Here is how to build MS-DOS 1.25 with the build disk: Download the build disk. Create a new virtual machine using your favorite emulator or hypervisor. Add a floppy drive, load the build disk. Start the virtual machine (it should boot from the build disk). Check the filenames using the DIR command and it should return: Type in MK <FILENAME> to assemble that particular component or MK ALL to assemble everything. Once you have everything assembled, type in DIR *.COM and DIR *.SYS to see the executable produced, it should be similar to: You have done it! You can now copy those executables to another disk or extract them or run them!
 </p>
-
+<p>After reading a Windows Open Source Article Mark Russivich said it wold take a rocket scientist to build Microsoft Windows and I have. I at leas thold my almatrer to that.</p>
+<li><a target="_self" href="https://www.wired.com/2015/04/microsoft-open-source-windows-definitely-possible/">Microsoft: An Open Source Windows Is 'Definitely Possible'</a></li>
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
