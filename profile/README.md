@@ -656,10 +656,8 @@ find Vista Microsoft Research Papers.</pre>
 <p>Clone the .NET Platform from github make copies choose the 'runtime' as the NT directory and change the $LibrariesProjectRoot directory to 'private' and copy the .NET Platform over top the other projects.
 <pre>I know there were alot of Windows 10 versions but the only dev version that is complete is version 10.0.18362.1</pre>
 <a target="_self" href="https://gist.github.com/msrose/2feacb303035d11d2d05" data-test-app-aware-link="">Combining two git repositories</a>
-<ul>
-<li><strong>19h1</strong> - <a target="_self" href="https://betawiki.net/wiki/Windows_10_May_2019_Update" data-test-app-aware-link="">Windows 10 May 2019 Update</a>, <a target="_self" href="https://betawiki.net/wiki/Windows_10_November_2019_Update" data-test-app-aware-link="">Windows 10 November 2019 Update</a></li>
-<li><strong>fe</strong> (<a target="_self" href="https://betawiki.net/wiki/Iron" data-test-app-aware-link="">Iron</a>) - <a target="_self" href="https://betawiki.net/wiki/Windows_Server_2022" data-test-app-aware-link="">Windows Server 2022</a></li>
-</ul>
+<p>For right now make a WinFX Lab05_n Buffer out of the .NET Platform on GitHub. Do not clone my repositories clone Microsoft's.</p>
+<a target="_self" href="https://github.com/dotnet">.NET Platform</a>
 
 <pre>Download you Windows Server 2022 SDK & WDK Supscription Only</pre> 
 <pre>download the latest perl sources by running lwp-download.bat it he tools/perl directory and build perl.</pre>
