@@ -36,7 +36,7 @@ How to Build MS-DOS and the Windows Operating System
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
-<li><a target="_self" href="https://cla-assistant.io/">Shinx Logic CLA</a></li>
+<li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
 </ul>
 
 <h2>Acedemia</h2>
