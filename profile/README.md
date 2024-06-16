@@ -44,6 +44,7 @@ How to Build MS-DOS and the Windows Operating System
 
 <h2>Acedemia</h2>
 <ul>
+<li><a target="_self" href="https://www.psychologytoday.com/us/blog/biocentrism/201112/does-the-soul-exist-evidence-says-yes" data-test-app-aware-link="">Does the Soul Exist? Evidence Says ‘Yes’</a></li> 
 <li><a href="https://www.minix3.org/" data-test-app-aware-link="">MINX 3</a></li>
 <li><a target="_self" href="https://ocw.oouagoiwoye.edu.ng/about/mirror-site-program/">MIT Open Courseware Mirror Site Program</a></li>
 <li><a target="_self" href="https://scholar.google.com/citations?user=aBc-Oc8AAAAJ&hl=en">My Google Scholar</a></li>
@@ -92,14 +93,14 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://learn.microsoft.com/en-us/entra/identity/saas-apps/convercent-tutorial">Tutorial: Microsoft Entra integration with Convercent</a></li>
 </ul>
 
-<h2>Liquity Value</h2>
+<h2>Finance</h2>
 <ul>
 <li><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value definition</a></li>
 <li><a href="https://www.investopedia.com/terms/n/noi.asp">Net Operating Income For Real Estate</a></li>
 </ul>
 
+<h2>Industry Links</h2>
 <ul>
-<li><a target="_self" href="https://www.psychologytoday.com/us/blog/biocentrism/201112/does-the-soul-exist-evidence-says-yes" data-test-app-aware-link="">Does the Soul Exist? Evidence Says ‘Yes’</a></li> 
 <li><a target="_self" href="https://en.wikipedia.org/wiki/DECUS" data-test-app-aware-link="">DECUS</a></li>
 <li><a target="_self" href="https://www.itprotoday.com/compute-engines/mipsnt-allied-birth" data-test-app-aware-link="">MIPS/NT allied at birth</a></li> 
 <li><a target="_self" href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story" data-test-app-aware-link="">Windows NT and VMS: The Rest of the Story</a></li>
