@@ -60,6 +60,10 @@ How to Build MS-DOS and the Windows Operating System
 
 <p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
 
+<h2>History of Mucrosoft</h2>
+<li><a href="https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1993">The History of Microsoft - 1993</a></li>
+<p>I've beed Sleepless in Seattle since 1995</p>
+
 <h2>Microsoft Agreements</h2>
 <ul>
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a></li>
