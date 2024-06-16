@@ -323,7 +323,8 @@ If you want to wait 6 to 12 hours for a new clean build you'll type this:
 <pre>tools\postbuildscripts\winnt32msi.cmd</pre>
 <pre>tools\postbuildscripts\makebuildname.cmd</pre>
 <pre>tools\postbuildscripts\cdimage.cmd -d Release</pre>
-<pre>move delobj.cmd the the tools directory to the NT Root and clean the source tree by deleting all the object files. After the build</pre>
+<pre>move delobj.cmd the the tools directory to the NT Root and clean the source tree by deleting 
+all the object files. After the build</pre>
 <p>Close Razzle Window run the VC7 vcvars32.bat from the VCBuilt share and set _NTTREE environment variable. Which is the binaries directory.</p>
 <pre>path %path%;D:\binaries.x86fre\bldtools</pre>
 <p>Copy the 'copyddkfiles.cmd' the the NT\base\ddk directory for the tools directory run: </p>
