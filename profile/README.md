@@ -60,7 +60,7 @@ How to Build MS-DOS and the Windows Operating System
 
 <p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
 
-<h2>History of Mucrosoft</h2>
+<h2>History of Microsoft</h2>
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1993">The History of Microsoft - 1993</a></li>
 </ul>
