@@ -50,8 +50,6 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://scholar.google.com/citations?user=aBc-Oc8AAAAJ&hl=en">My Google Scholar</a></li>
 <li><a target="_self" href="https://www.goodreads.com/jonathandavidmoore">My Goodreads</a></li>
 <li><a target="_self" href="https://www.imdb.com/user/ur154049466/watchlist/">My IMDB</a></li>
-</ul>
-<ul>
 <li><a target="_self" href="https://futuretimeline.net/">Future Timeline</a></li> 
 <li><a target="_self" href="https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed">The Supreme Court pared down a controversial anti-hacking law</a></li>
 </ul>
