@@ -100,6 +100,7 @@ How to Build MS-DOS and the Windows Operating System
 
 <h2>Industry Links</h2>
 <ul>
+<li><a target="_self" href="https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/">Why Microsoft is turning into an open-source company</a></li>
 <li><a target="_self" href="https://en.wikipedia.org/wiki/DECUS" data-test-app-aware-link="">DECUS</a></li>
 <li><a target="_self" href="https://www.itprotoday.com/compute-engines/mipsnt-allied-birth" data-test-app-aware-link="">MIPS/NT allied at birth</a></li> 
 <li><a target="_self" href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story" data-test-app-aware-link="">Windows NT and VMS: The Rest of the Story</a></li>
