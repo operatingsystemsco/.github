@@ -49,9 +49,7 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://www.goodreads.com/jonathandavidmoore">My Goodreads</a></li>
 <li><a target="_self" href="https://www.imdb.com/user/ur154049466/watchlist/">My IMDB</a></li>
 </ul>
-<p>The following movie arrived in theaters the year I started Sullins Acedemy</p>
 <ul>
-<li><a target="_self" href="https://www.imdb.com/title/tt0085514/reference/">The Exterminators of the Year 3000</a></li>
 <li><a target="_self" href="https://futuretimeline.net/">Future Timeline</a></li> 
 <li><a target="_self" href="https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed">The Supreme Court pared down a controversial anti-hacking law</a></li>
 </ul>
@@ -102,13 +100,6 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://www.investopedia.com/terms/n/noi.asp">Net Operating Income For Real Estate</a></li>
 </ul>
 
-<p>Microsoft has one mailing list for the Microsoft Research introductory project 'Detours'</p>
-
-<p>I have my System Integrator ID and NDA which you can find in the Partner Center. You can access Microsoft Collaborate <a href="https://developer.microsoft.com/en-us/windows/support/?tabs=Contact-us">here</a> I'm retired from Microsoft until the faternity leaves and Computer Science teaches Opertaing System Theory again. Or until Microsoft is a Computer Science Company not a IT Company.</p>
-<p id="ember670"> You may want to try DR-DOS 7.03 from 
-<a target="_self" href="https://en.wikipedia.org/wiki/Santa_Cruz_Operation" data-test-app-aware-link="">Caldera</a> Licensing or
-<a target="_self" href="https://en.wikipedia.org/wiki/Novell" data-test-app-aware-link="">Novell</a> DR-DOS 7.0 from 1999 a updated from MS-DOS as the operating system stayed up to date until 2011 at Novell. and fetch the latest Perl distribution from the NT Sources Perl distribution and start DOS Globbing. I'm working on a Alpha, VAX or MIPS server and I hope I can boot something from the 
-
 <ul>
 <li><a target="_self" href="https://www.psychologytoday.com/us/blog/biocentrism/201112/does-the-soul-exist-evidence-says-yes" data-test-app-aware-link="">Does the Soul Exist? Evidence Says ‘Yes’</a></li> 
 <li><a target="_self" href="https://en.wikipedia.org/wiki/DECUS" data-test-app-aware-link="">DECUS</a></li>
@@ -122,12 +113,19 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://cybersecurity.att.com/blogs/security-essentials/its-only-a-hacker-if-its-linus-himself" data-test-app-aware-link="">It's Only A Hacker If It's Linus Himself</a></li>
 <li><a target="_self" href="https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/" data-test-app-aware-link="">MINIX: ​Intel's hidden in-chip operating system</a></li>
 </ul>
-</p>
-
+<ul>
 <p>Cache the Hewlett Packard operating environment for OpenVMS from the <a href="https://ftp.zx.net.nz/pub/archive/">ftp.zx.net.nz World-Wide Web Server</a> FTP Server and start updating to x86. Start with the 95 Win32 SDK. Find the MAPI Sample. Install Azure DevOps which comes with the <a href="https://learn.microsoft.com/en-us/azure/education-hub/access-education-hub">Education Hub on Azure</a>. For Computer Science Majors or Alumni. With the default collection and a OS project. Named OS the path should be _git/OS</p>
+
 <p>In Cygwin use:</p>
 <pre>wget -r --no-parent to cache a directory</pre>
-<ul>
+<p>Microsoft has one mailing list for the Microsoft Research introductory project 'Detours'</p>
+<p>I have my System Integrator ID and NDA which you can find in the Partner Center. You can access Microsoft Collaborate <a href="https://developer.microsoft.com/en-us/windows/support/?tabs=Contact-us">here</a> I'm retired from Microsoft until the faternity leaves and Computer Science teaches Opertaing System Theory again. Or until Microsoft is a Computer Science Company not a IT Company.</p>
+<p id="ember670"> You may want to try DR-DOS 7.03 from 
+<a target="_self" href="https://en.wikipedia.org/wiki/Santa_Cruz_Operation" data-test-app-aware-link="">Caldera</a> Licensing or
+<a target="_self" href="https://en.wikipedia.org/wiki/Novell" data-test-app-aware-link="">Novell</a> 
+
+<p>DR-DOS 7.0 from 1999 a updated from MS-DOS as the operating system stayed up to date until 2011 at Novell. and fetch the latest Perl distribution from the NT Sources Perl distribution and start DOS Globbing. I'm working on a Alpha, VAX or MIPS server</p>
+
 <li>Single UNIX Specification, and put <a href="https://en.wikipedia.org/wiki/UNIX_System_V">AT&T System V</a> and <a href="https://archive.org/details/ATTUNIXSystemVRelease4Version2">Source</a> in SFU or SUA and <a href="https://kb.iu.edu/d/agjx">Ultrix</a>, <a href="https://www.tuhs.org/">Source</a> in DEC.</li>
 <li>The <a href="https://ecma-international.org/publications-and-standards/standards/ecma-335/">ECMA 335</a> 336 Standard started in 2002 and 2006 and worked on FreeBSD before Linux The .NET Framework work begain in 1998 with the COM SDK and the Next Generation Web Services SDK.</li> 
 <li><a href="./docs/index.html">Here</a> is the documentation for it. The archive can be found on <a href="https://github.com/SSCLI">Github</a></li> 
