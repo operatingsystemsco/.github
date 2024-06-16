@@ -63,7 +63,7 @@ How to Build MS-DOS and the Windows Operating System
 
 <h2>History of Microsoft</h2>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=YUxaLP6bI00">Microsoft's forgotten UNIX operating system - Whatever happened to Xenix?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/History_of_Microsoft">History of Microsoft</a></li>
 <li><a href="https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1993">The History of Microsoft - 1993</a></li>
 </ul>
 <p>I started in 1982 with a TRS-80 Computer Limited Edtion one of a kind and Microsoft XEINX and TR-DOS, I've beed Sleepless in Seattle since 1992 and Singles the Movie</p>
