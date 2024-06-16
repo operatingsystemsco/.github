@@ -62,7 +62,7 @@ How to Build MS-DOS and the Windows Operating System
 
 <p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
 
-<h2>How to obtain a Microsoft Agreement</h2>
+<h2>Microsoft Agreements</h2>
 <ul>
 <li><a href="https://www.microsoft.com/licensing/docs/view/Products/Software-products">Licencing Documents</a></li>
 <li><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/create-enterprise-subscription?WT.mc_id=facebook">Create a Enterprise Agreement Subscription.</a></li>
