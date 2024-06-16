@@ -68,7 +68,7 @@ How to Build MS-DOS and the Windows Operating System
 </ul>
 <p>I started in 1982 with a TRS-80 Computer Limited Edtion one of a kind and Microsoft XEINX and TR-DOS, I've beed Sleepless in Seattle since 1992 and Singles the Movie</p>
 
-<h2>History of Microsoft UNIX Licenisnisng and Corporate Darwnism.</h2>
+<h2>History of Microsoft UNIX Licensing and Corporate Darwnism.</h2>
 
 <h2>Microsoft Agreements</h2>
 <ul>
