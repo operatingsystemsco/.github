@@ -69,6 +69,9 @@ How to Build MS-DOS and the Windows Operating System
 <p>I started in 1982 with a TRS-80 Computer Limited Edtion one of a kind and Microsoft XEINX and TR-DOS, I've beed Sleepless in Seattle since 1992 and Singles the Movie</p>
 
 <h2>History of Microsoft UNIX Licensing and Corporate Darwnism.</h2>
+<ul>
+<li><li><a href="https://en.wikipedia.org/wiki/Santa_Cruz_Operation">Santa Cruz Operation</a></li>
+</ul>
 
 <h2>Microsoft Agreements</h2>
 <ul>
