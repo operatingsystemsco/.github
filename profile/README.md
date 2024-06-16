@@ -34,6 +34,7 @@ How to Build MS-DOS and the Windows Operating System
 </p>
 <p>After reading a Windows Open Source Article Mark Russivich said it wold take a rocket scientist to build Microsoft Windows and I have. I at leas thold my almatrer to that.</p>
 <li><a target="_self" href="https://www.wired.com/2015/04/microsoft-open-source-windows-definitely-possible/">Microsoft: An Open Source Windows Is 'Definitely Possible'</a></li>
+
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
@@ -53,15 +54,12 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://futuretimeline.net/">Future Timeline</a></li> 
 <li><a target="_self" href="https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed">The Supreme Court pared down a controversial anti-hacking law</a></li>
 </ul>
+
 <p>According to Andrew Tanumbuam top down Operating System design is best, bottom up is more practical</p>
 
 <h2>My Visual Studio Extension in the Makrketplace</h2>
 
 <p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
-
-<p>YOU NEED A 600 GIGABYTE VIRTUAL MACHINE TO COMPLETE THIS TUTORIAL</p>
-
-<p>HERE IS WHERE YOU CAN OBTAIN WINDOWS SOURCE CODE FROM THE SHARED SOURCE INITIATIVE <a href="https://www.microsoft.com/en-us/sharedsource/">HERE.</a></p>
 
 <h2>How to obtain a Microsoft Agreement</h2>
 <ul>
@@ -78,23 +76,23 @@ How to Build MS-DOS and the Windows Operating System
 <li>You must own a Enterprise Product to have a Enterprise Agreement with a EULA and at least 5 PC's</li>
 </ul>
 
-<p>Microsoft's Open Source Program</p>
+<h2>Microsoft's Open Source Program</h2>
 <ul>
 <li><a href="https://opensource.microsoft.com/program/">Open Source Program</a></li>
 <li><a href="https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/13571077-e344-4e6f-a477-369894979798">Patent Promises and Patents</a></li>
 </ul>
 
-<p>Adobe Contibutor Licence Agreement</p>
+<h2>Adobe Contibutor Licence Agreement</h2>
 <ul>
 <li><a href="https://opensource.adobe.com/cla.html">Adobe Open Source</a></li>
 </ul>
 
-<p>Microsoft Legal</p>
+<h2>Microsoft Legal</h2>
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/entra/identity/saas-apps/convercent-tutorial">Tutorial: Microsoft Entra integration with Convercent</a></li>
 </ul>
 
-<p>Liquity Value</p>
+<h2>Liquity Value</h2>
 <ul>
 <li><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value definition</a></li>
 <li><a href="https://www.investopedia.com/terms/n/noi.asp">Net Operating Income For Real Estate</a></li>
@@ -112,30 +110,20 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://devblogs.microsoft.com/oldnewthing/20181224-00/?p=100545" data-test-app-aware-link="">Random internal Windows terminology: IDW, Razzle, and their forgotten partners IDS and Dazzle</a></li>
 <li><a target="_self" href="https://cybersecurity.att.com/blogs/security-essentials/its-only-a-hacker-if-its-linus-himself" data-test-app-aware-link="">It's Only A Hacker If It's Linus Himself</a></li>
 <li><a target="_self" href="https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/" data-test-app-aware-link="">MINIX: ​Intel's hidden in-chip operating system</a></li>
+<li><a href="https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/">Azure Linux released at Build where Microsoft revealed why it did not fork Fedora</a></li></ul>
 </ul>
-<ul>
+
 <p>Cache the Hewlett Packard operating environment for OpenVMS from the <a href="https://ftp.zx.net.nz/pub/archive/">ftp.zx.net.nz World-Wide Web Server</a> FTP Server and start updating to x86. Start with the 95 Win32 SDK. Find the MAPI Sample. Install Azure DevOps which comes with the <a href="https://learn.microsoft.com/en-us/azure/education-hub/access-education-hub">Education Hub on Azure</a>. For Computer Science Majors or Alumni. With the default collection and a OS project. Named OS the path should be _git/OS</p>
 
 <p>In Cygwin use:</p>
 <pre>wget -r --no-parent to cache a directory</pre>
+<pre>Launch a CMD prompt and type pwd to execute UNIX Commands in the Win32 shell. With SFU or SUA.</pre>
+
 <p>Microsoft has one mailing list for the Microsoft Research introductory project 'Detours'</p>
 
-<li>Single UNIX Specification, and put <a href="https://en.wikipedia.org/wiki/UNIX_System_V">AT&T System V</a> and <a href="https://archive.org/details/ATTUNIXSystemVRelease4Version2">Source</a> in SFU or SUA and <a href="https://kb.iu.edu/d/agjx">Ultrix</a>, <a href="https://www.tuhs.org/">Source</a> in DEC.</li>
-<li>The <a href="https://ecma-international.org/publications-and-standards/standards/ecma-335/">ECMA 335</a> 336 Standard started in 2002 and 2006 and worked on FreeBSD before Linux The .NET Framework work begain in 1998 with the COM SDK and the Next Generation Web Services SDK.</li> 
+<p>YOU NEED A 600 GIGABYTE VIRTUAL MACHINE TO COMPLETE THIS TUTORIAL</p>
 
-<pre>Launch a CMD prompt and type pwd to execute UNIX Commands in the Win32 shell. With SFU or SUA.</pre>
-<ul>
-<li>Aslo cache the University of Washington and Digital Corp from the same server. You should have your freeware 8.0 for XP from the HP FTP cache. Become a USENIX Member and download all the Login Jounals and put it in your HP's paper's directory.</li>
-<li>You can start updtaing the XP HP cache to x86 32-bit for Services for UNIX in XP/2003. 64-bit for SUA and Windows Server 2003 R2. I started with my Oracle Contract and netbeans 8.1 source and apache ant 1.7 from apache. I might have Visual Studio Webcasts or courses from my 2000, 2004 and 2008 MSDN Enterprise Subscriptions.</li> 
-<li>You can buy Visual Studio Source from <a href="https://codejock.com/">Code Jock Suite Pro</a> a Microsoft Partner at Component Source. You also may want to install Bridgeworks from the HP Cache on XP to help port <a href="https://www.amazon.com/Microsoft-Interoperability-Toolkit-Developer-Reference/dp/0735619220">J2EE to .NET Framework</a> from OpenVMS.</li>
-<li>Intsall GitFVFS from  <a href="https://github.com/microsoft/VFSForGit">GitHub</a> to speed up the cloning and pushing of repositories.</li>
-<li>You can read about the Windows Repo here: <a href="https://vfsforgit.org/">VFS for Git: Git at Enterprise Scale</a></li>
-<li><a href="https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-and-education">Windows 10 Enterprise and Education</a> You may want <a href="https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2019">10 2019 LTSC</a> like me so you'll have until 2029.</li>
-<li>Install Cygwin, the minimium Delev category and the latest <a href="https://www.oracle.com/java/technologies/downloads/">JDK from Oracle.</a></li>
-<li>Clone the Java JDK from Github and install at least the Visual Studio 2019 Build Tools. All Devops projects should be in the _git/OS directory.</li>
-<li>The future GIT structure can be found in the 2005 or 2008 MSDN Library Samples.</li>
-<li><a href="https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/">Azure Linux released at Build where Microsoft revealed why it did not fork Fedora</a></li></ul>
-
+<p>HERE IS WHERE YOU CAN OBTAIN WINDOWS SOURCE CODE FROM THE SHARED SOURCE INITIATIVE <a href="https://www.microsoft.com/en-us/sharedsource/">HERE.</a></p>
 
 <h2>Internal Developer Server or Workstation for Windows NT 3.5.</h2>
 
