@@ -55,7 +55,7 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed">The Supreme Court pared down a controversial anti-hacking law</a></li>
 </ul>
 
-<p>According to Andrew Tanumbuam top down Operating System design is best, bottom up is more practical</p>
+<p>According to Andrew Tanumbuam top down Operating System design is best, bottom up is more practical.</p>
 
 <h2>My Visual Studio Extension in the Makrketplace</h2>
 
@@ -67,6 +67,8 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1993">The History of Microsoft - 1993</a></li>
 </ul>
 <p>I started in 1982 with a TRS-80 Computer Limited Edtion one of a kind and Microsoft XEINX and TR-DOS, I've beed Sleepless in Seattle since 1992 and Singles the Movie</p>
+
+<h2>History of Microsoft UNIX Licenisnisng and Corporat Darwnism.</h2>
 
 <h2>Microsoft Agreements</h2>
 <ul>
