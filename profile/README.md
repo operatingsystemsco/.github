@@ -268,7 +268,8 @@ in source depot and it is a physical lab.</pre>
 
 <strong>Lab03</strong>: Server<a target="_self" href="https://betawiki.net/wiki/Build_lab#cite_note-3" data-test-app-aware-link="">[c]</a>
 <pre>Copy the Entire Server folder from nt5src.7z to Lab03</pre>
-<pre>The entire Server build should build with about 20 shipping errors and take about 6 hrs for a free build and 12 hrs for a checked.</pre>
+<pre>The entire Server build should build with about 20 shipping errors and take about 6 hrs for a 
+free build and 12 hrs for a checked.</pre>
 <pre>build -cz</pre>
 <pre>delobj.cmd to clean the source tree</pre>
 
