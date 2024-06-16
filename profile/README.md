@@ -47,6 +47,7 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://www.psychologytoday.com/us/blog/biocentrism/201112/does-the-soul-exist-evidence-says-yes" data-test-app-aware-link="">Does the Soul Exist? Evidence Says ‘Yes’</a></li> 
 <li><a href="https://www.minix3.org/" data-test-app-aware-link="">MINX 3</a></li>
 <li><a target="_self" href="https://ocw.oouagoiwoye.edu.ng/about/mirror-site-program/">MIT Open Courseware Mirror Site Program</a></li>
+<li><a target="_self" href="https://github.com/sphinxlogic/Biography">My Biography -- Work in Progress</a></li>
 <li><a target="_self" href="https://scholar.google.com/citations?user=aBc-Oc8AAAAJ&hl=en">My Google Scholar</a></li>
 <li><a target="_self" href="https://www.goodreads.com/jonathandavidmoore">My Goodreads</a></li>
 <li><a target="_self" href="https://www.imdb.com/user/ur154049466/watchlist/">My IMDB</a></li>
