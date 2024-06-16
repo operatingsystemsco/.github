@@ -119,21 +119,10 @@ How to Build MS-DOS and the Windows Operating System
 <p>In Cygwin use:</p>
 <pre>wget -r --no-parent to cache a directory</pre>
 <p>Microsoft has one mailing list for the Microsoft Research introductory project 'Detours'</p>
-<p>I have my System Integrator ID and NDA which you can find in the Partner Center. You can access Microsoft Collaborate <a href="https://developer.microsoft.com/en-us/windows/support/?tabs=Contact-us">here</a> I'm retired from Microsoft until the faternity leaves and Computer Science teaches Opertaing System Theory again. Or until Microsoft is a Computer Science Company not a IT Company.</p>
-<p id="ember670"> You may want to try DR-DOS 7.03 from 
-<a target="_self" href="https://en.wikipedia.org/wiki/Santa_Cruz_Operation" data-test-app-aware-link="">Caldera</a> Licensing or
-<a target="_self" href="https://en.wikipedia.org/wiki/Novell" data-test-app-aware-link="">Novell</a> 
-
-<p>DR-DOS 7.0 from 1999 a updated from MS-DOS as the operating system stayed up to date until 2011 at Novell. and fetch the latest Perl distribution from the NT Sources Perl distribution and start DOS Globbing. I'm working on a Alpha, VAX or MIPS server</p>
 
 <li>Single UNIX Specification, and put <a href="https://en.wikipedia.org/wiki/UNIX_System_V">AT&T System V</a> and <a href="https://archive.org/details/ATTUNIXSystemVRelease4Version2">Source</a> in SFU or SUA and <a href="https://kb.iu.edu/d/agjx">Ultrix</a>, <a href="https://www.tuhs.org/">Source</a> in DEC.</li>
 <li>The <a href="https://ecma-international.org/publications-and-standards/standards/ecma-335/">ECMA 335</a> 336 Standard started in 2002 and 2006 and worked on FreeBSD before Linux The .NET Framework work begain in 1998 with the COM SDK and the Next Generation Web Services SDK.</li> 
-<li><a href="./docs/index.html">Here</a> is the documentation for it. The archive can be found on <a href="https://github.com/SSCLI">Github</a></li> 
-<li><a href="powerpoints/AdvancedComputerScience-TeachingwiththeSSCLI.ppt">Advanced Computer Science Teaching with the SSCLI</a> is a SSCLI Powerpoint.</li>
-<li><a href="https://www.amazon.com/Common-Language-Infrastructure-Annotated-Standard/dp/0321154932">The Common Language Infrastructure Annotated Standard</a></li>
-<li>The .NET Framework 3.5 is in support until 2029.</p></li>
-<li><a href="https://learn.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server">.NET vs. .NET Framework for server apps</a></li>
-</ul>
+
 <pre>Launch a CMD prompt and type pwd to execute UNIX Commands in the Win32 shell. With SFU or SUA.</pre>
 <ul>
 <li>Aslo cache the University of Washington and Digital Corp from the same server. You should have your freeware 8.0 for XP from the HP FTP cache. Become a USENIX Member and download all the Login Jounals and put it in your HP's paper's directory.</li>
