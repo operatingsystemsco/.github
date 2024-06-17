@@ -45,6 +45,7 @@ How to Build MS-DOS and the Windows Operating System
 <h2>Acedemia</h2>
 <ul>
 <li><a target="_self" href="https://www.psychologytoday.com/us/blog/biocentrism/201112/does-the-soul-exist-evidence-says-yes" data-test-app-aware-link="">Does the Soul Exist? Evidence Says ‘Yes’</a></li> 
+<li><a href="https://news.okstate.edu/magazines/research/research-matters/articles/2017/poetry-building-blocks-engineering.html">Poetry as the building blocks of engineering</a></li>
 <li><a href="https://www.minix3.org/" data-test-app-aware-link="">MINX 3</a></li>
 <li><a target="_self" href="https://ocw.oouagoiwoye.edu.ng/about/mirror-site-program/">MIT Open Courseware Mirror Site Program</a></li>
 <li><a target="_self" href="https://github.com/sphinxlogic/Biography">My Biography -- Work in Progress</a></li>
