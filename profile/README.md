@@ -64,6 +64,7 @@ How to Build MS-DOS and the Windows Operating System
 <h2>Relgious Views of Charles Darwin</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin">Reigious Views of Chareles Darwin</a></li>
+<li><a href="https://abcnews.go.com/Technology/story?id=5817850&page=1">Anglican clergyman: Church owes Darwin an apology</a></li>
 </ul>
 
 <h2>History of Microsoft</h2>
