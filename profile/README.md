@@ -241,7 +241,7 @@ Your UNIX source should go in SFU or SUA usr->src directory AT&T System V or SCO
 <pre>cd D:\NT</pre>
 <pre>tools\checktestroot.cmd and tools\checktestpca.cmd </pre>
 <p>2. Setting Razzle</p>
-<pre>tools\razzle free offline, tools\razzle win64 amd64 free offline or tools\razzle win64 /I amd64 free offline   
+<pre>tools\razzle free offline, tools\razzle win64 amd64 free offline or tools\razzle Amd64 Win64 free offline   
 
 or for checked     
 
