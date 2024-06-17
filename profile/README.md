@@ -90,6 +90,7 @@ How to Build MS-DOS and the Windows Operating System
 <h2>Microsoft Agreements</h2>
 <ul>
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a></li>
+<li><a href="https://news.microsoft.com/2002/03/27/microsoft-releases-shared-source-cli-and-c-implementation/">Microsoft Releases Shared Source CLI and C# Implementation</a></li>
 <li><a href="https://www.microsoft.com/licensing/docs/view/Products/Software-products">Licencing Documents</a></li>
 <li><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/create-enterprise-subscription?WT.mc_id=facebook">Create a Enterprise Agreement Subscription.</a></li>
 <li><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/azure-billing-enterprise-agreement">Plan for Enterprise Agreement enrollment</a></li>
@@ -199,7 +200,7 @@ If you are using NT 4.0 use expand.exe to extract the NT source to its location.
 
 <pre>Install the Windows NT 4.0 SDK.</pre>
 
-<pre>Install Visual C++ 4.0 w/ MFC MIgration Kit.</pre>
+<pre>Install Visual C++ 4.0 w/ MFC Migration Kit.</pre>
 
 <pre>Copy the MSDEV, DDK, And PlatformSDK directory's to the Build drive and rename the DDK to 'IDWNT4' </pre>
 
@@ -234,7 +235,7 @@ Setup, Posix, MVDM, WinDbg, and OS2. </pre>
 <h2>Internal Developer Server or Workstation for Windows 2000.</h2>
 
 <h2>Internal Developer Server or Workstation for Windows Server 2003</h2>
-<p><a target="_self" href="https://www.cnet.com/tech/tech-industry/commentary-shared-source-needs-commitment/">Project Hailstorm</a></p>
+
 <p><a target="_self" href="https://web.archive.org/web/20110527022943/http://www.microsoft.com/resources/sharedsource/windowsacademic/default.mspx">Microsoft Acedemic Program</a></p>
 <p>The Official Build Number of the XP/2003 source is 5.1.2600.6000.240228-0756 is revision 6000 the same as the 2009 Embedded RTM. </p>
 <p>Make a Windows 2000 Advanced Server or Server 2003 or 2003 R2 Virtual Machine with SFU for 2003 and SUA for 2003 R2.
