@@ -247,6 +247,8 @@ or for checked
 
 tools\razzle offline or tools\razzle win64 amd64 offline </pre>
 
+<p>If you get a win64 build.exe error it might be unported VAX architechure and R6000 was needing the 2003 DDK for build.exe</p>
+
 <pre>Make a PROJECT_ROOT and a private directory and make one NT project tools\ntnewver.cmd is 
 incomplete to complete in production in the NT directory use the Windows Research Kernel in college 
 ask the Computer Science Dept. System Administrator. For access.</pre>
