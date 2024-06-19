@@ -59,6 +59,7 @@ How to Build MS-DOS and the Windows Operating System
 <h2>Progress</h2>
 <ul>
 <li><a href="https://plato.stanford.edu/entries/progress/">Progress</a></li>
+<li><a href="https://www.ted.com/talks/sir_ken_robinson_changing_education_paradigms">Royal Society of the Arts: Changing Education Paradigms</a></li>
 </ul>
 
 <h2>Architecure</h2>
