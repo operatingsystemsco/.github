@@ -56,6 +56,11 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed">The Supreme Court pared down a controversial anti-hacking law</a></li>
 </ul>
 
+<h2>Progress</h2>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/progress/">Progress</a></li>
+</ul>
+
 <h2>Architecure</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/X86-64">X86-64</a></li>
