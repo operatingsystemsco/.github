@@ -61,6 +61,7 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://plato.stanford.edu/entries/progress/">Progress</a></li>
 <li><a href="https://www.ted.com/talks/sir_ken_robinson_changing_education_paradigms">Royal Society of the Arts: Changing Education Paradigms</a></li>
 <li><a href="https://www.smithsonianmag.com/smart-news/pope-would-you-accept-evolution-and-big-bang-180953166/">The Pope Would Like You to Accept Evolution and the Big Bang</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924933810701140">The philosophical understanding of schizophrenia</a></li>
 </ul>
 
 <h2>Architecure</h2>
