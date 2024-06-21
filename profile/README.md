@@ -141,7 +141,7 @@ How to Build MS-DOS and the Windows Operating System
 </ul>
 
 <p>Set you home directory in 'Computer Management' and start building <a target="_self" href="https://www.sco.com/skunkware/">SCO from source</a> I would start with the devtool m4 1.4.3
-After you set you home directory you should have a 'Windows' Directory in your SFU Windows directory and you execute the Korn or C shell. Begin reading the SFU porting guide.</p>
+After you set you home directory you should have a 'Windows' Directory in your SFU home directory and you execute the Korn or C shell. Begin reading the SFU porting guide.</p>
 
 <h2>Industry Links</h2>
 <ul>
