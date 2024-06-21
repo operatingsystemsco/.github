@@ -186,7 +186,7 @@ I use Microsoft Access 97.</pre>
 
 <pre>D:\NT-782\NT\private\bldtools\idwrelease.cmd built;nonbuilt</pre>
 
-<p>You may start to build SCO projects like OmniOrb aka COM for Win32 on NT 3.5 or NT 4.0</p>
+<p>You may start to build SCO projects like Corba(OmniOrb) aka COM for Win32 on NT 3.5 or NT 4.0</p>
 
 <h2>Internal Developer Server or Workstation for Windows NT 4.0</h2>
 
@@ -211,7 +211,7 @@ If you are using NT 4.0 use expand.exe to extract the NT source to its location.
 
 <pre>Install the Windows NT 4.0 SDK.</pre>
 
-<pre>Install Visual C++ 4.0 w/ MFC Migration Kit.</pre>
+<pre>Install Visual C++ 4.0 w/ MFC Migration Kit. Visual C++ 4.2 w/ MFC Migration Kit. Visual C++ 5.0 w/ MFC Migration Kit.</pre>
 
 <pre>Copy the MSDEV, DDK, And PlatformSDK directory's to the Build drive and rename the DDK to 'IDWNT4' </pre>
 
