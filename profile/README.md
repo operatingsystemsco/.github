@@ -140,6 +140,8 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://archive.org/details/cdrom-services-unix-3.5-microsoft-2004">Services for UNIX 3.5 (Microsoft) (2004)</a></li>
 </ul>
 
+<p>Set you home directory in 'Computer Management' and start building SCO from source I would start with the devtool m4 1.43</p>
+
 <h2>Industry Links</h2>
 <ul>
 <li><a target="_self" href="https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/">Why Microsoft is turning into an open-source company</a></li>
