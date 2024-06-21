@@ -80,6 +80,11 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://abcnews.go.com/Technology/story?id=5817850&page=1">Anglican clergyman: Church owes Darwin an apology</a></li>
 </ul>
 
+<h2>Ecology</h2>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/3493534/">Disease competition as a factor in ecological studies</a></li>
+</ul>
+
 <h2>History of Microsoft</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/History_of_Microsoft">History of Microsoft</a></li>
