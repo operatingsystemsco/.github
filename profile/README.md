@@ -135,14 +135,6 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://www.tandfonline.com/doi/pdf/10.1080/00036847200000037">Patents, profitability, liquidity and firm size</a></li>
 </ul>
 
-<h2>Services For UNIX</h2>
-<ul>
-<li><a target="_self" href="https://archive.org/details/cdrom-services-unix-3.5-microsoft-2004">Services for UNIX 3.5 (Microsoft) (2004)</a></li>
-</ul>
-
-<p>Set you home directory in 'Computer Management' and start building <a target="_self" href="https://www.sco.com/skunkware/">SCO from source</a> I would start with the devtool m4 1.4.3
-After you set you home directory you should have a 'Windows' Directory in your SFU home directory and you execute the Korn or C shell. Begin reading the SFU porting guide.</p>
-
 <h2>Industry Links</h2>
 <ul>
 <li><a target="_self" href="https://www.zdnet.com/article/why-microsoft-is-turning-into-an-open-source-company/">Why Microsoft is turning into an open-source company</a></li>
