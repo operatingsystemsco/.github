@@ -186,6 +186,8 @@ I use Microsoft Access 97.</pre>
 
 <pre>D:\NT-782\NT\private\bldtools\idwrelease.cmd built;nonbuilt</pre>
 
+<p>You may start to build SCO projects like OmniOrb aka COM for Win32 on NT 3.5 or NT 4.0</p>
+
 <h2>Internal Developer Server or Workstation for Windows NT 4.0</h2>
 
 <p>Install on Windows NT 4.0, Back Office Suite or 2003 in a Virtual Machine.</p>
