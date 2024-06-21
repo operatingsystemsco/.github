@@ -253,7 +253,8 @@ Setup, Posix, MVDM, WinDbg, and OS2. </pre>
 
 <h2>Internal Developer Server or Workstation for Windows 2000.</h2>
 
-<h2>Internal Developer Server or Workstation for Windows Server 2003 32-Bit or XP 32-bit with 3 Partitons a C, D, and a mounted PDC 2003 Longhorn.</h2>
+<h2>Internal Developer Server or Workstation for Windows Server 2003 </h2>
+<h3>32-Bit or XP 32-bit with 3 Partitons a C, D, and a mounted PDC 2003 Longhorn. In Virtual Machines</h3>
 
 <p><a target="_self" href="https://web.archive.org/web/20110527022943/http://www.microsoft.com/resources/sharedsource/windowsacademic/default.mspx">Microsoft Acedemic Program</a></p>
 <p>The Official Build Number of the XP/2003 source is 5.1.2600.6000.240228-0756 is revision 6000 the same as the 2009 Embedded RTM. </p>
