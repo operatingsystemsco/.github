@@ -59,7 +59,6 @@ How to Build MS-DOS and the Windows Operating System
 <h2>Progress</h2>
 <ul>
 <li><a href="https://plato.stanford.edu/entries/progress/">Progress</a></li>
-<li><a href="https://www.ted.com/talks/sir_ken_robinson_changing_education_paradigms">Royal Society of the Arts: Changing Education Paradigms</a></li>
 <li><a href="https://www.smithsonianmag.com/smart-news/pope-would-you-accept-evolution-and-big-bang-180953166/">The Pope Would Like You to Accept Evolution and the Big Bang</a></li>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924933810701140">The philosophical understanding of schizophrenia</a></li>
 </ul>
@@ -134,6 +133,11 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value definition</a></li>
 <li><a href="https://www.investopedia.com/terms/n/noi.asp">Net Operating Income For Real Estate</a></li>
 <li><a href="https://www.tandfonline.com/doi/pdf/10.1080/00036847200000037">Patents, profitability, liquidity and firm size</a></li>
+</ul>
+
+<h2>Service For UNIX</h2>
+<ul>
+<li><a target="_self" href="https://archive.org/details/cdrom-services-unix-3.5-microsoft-2004">Services for UNIX 3.5 (Microsoft) (2004)</a></li>
 </ul>
 
 <h2>Industry Links</h2>
