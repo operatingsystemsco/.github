@@ -138,6 +138,7 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://www.lawinsider.com/dictionary/liquidity-value">Liquidity Value definition</a></li>
 <li><a href="https://www.investopedia.com/terms/n/noi.asp">Net Operating Income For Real Estate</a></li>
 <li><a href="https://www.tandfonline.com/doi/pdf/10.1080/00036847200000037">Patents, profitability, liquidity and firm size</a></li>
+<li><a href="https://www.investopedia.com/terms/c/capital.asp">Capital: Definition, How It's Used, Structure, and Types in Business</a></li>
 </ul>
 
 <h2>Industry Links</h2>
