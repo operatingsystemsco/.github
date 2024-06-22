@@ -139,7 +139,8 @@ How to Build MS-DOS and the Windows Operating System
 <li><a href="https://www.investopedia.com/terms/n/noi.asp">Net Operating Income For Real Estate</a></li>
 <li><a href="https://www.tandfonline.com/doi/pdf/10.1080/00036847200000037">Patents, profitability, liquidity and firm size</a></li>
 <li><a href="https://www.investopedia.com/terms/c/capital.asp">Capital: Definition, How It's Used, Structure, and Types in Business</a></li>
-<li><a href="https://www.lawinsider.com/clause/cash-out">Cash Out Samples Clauses</a></li>  
+<li><a href="https://www.lawinsider.com/clause/cash-out">Cash Out Samples Clauses</a></li>
+<li><a href="https://content.next.westlaw.com/practical-law/document/I3f4a4679e8db11e398db8b09b4f043e0/Power-of-advancement?viewType=FullText&transitionType=Default&contextData=(sc.Default)">Power of Advancment</a></li>  
 </ul>
 
 <h2>Industry Links</h2>
