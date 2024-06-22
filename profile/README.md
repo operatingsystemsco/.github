@@ -150,6 +150,7 @@ How to Build MS-DOS and the Windows Operating System
 <li><a target="_self" href="https://www.itprotoday.com/compute-engines/mipsnt-allied-birth" data-test-app-aware-link="">MIPS/NT allied at birth</a></li> 
 <li><a target="_self" href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story" data-test-app-aware-link="">Windows NT and VMS: The Rest of the Story</a></li>
 <li><a target="_self" href="https://www.computerworld.com/article/1727355/sco-confirms-microsoft-has-licensed-its-unix-technology.html" data-test-app-aware-link="">SCO confirms Microsoft has licensed its Unix technology</a></li>
+<li><a target="_self" href="https://www.wired.com/1997/11/microsoft-settles-fight-with-santa-cruz/" data-test-app-aware-link="">Microsoft Settles Fight with Santa Cruz Operation</a></li>
 <li><a target="_self" href="https://news.microsoft.com/2006/11/02/microsoft-and-novell-announce-broad-collaboration-on-windows-and-linux-interoperability-and-support/" data-test-app-aware-link="">Microsoft and Novell Announce Broad Collaboration on Windows and Linux Interoperability and Support</a></li>
 <li><a target="_self" href="https://learn.microsoft.com/en-us/visualstudio/releases/2019/compatibility" data-test-app-aware-link="">Visual Studio 2019 Compatibility</a></li>
 <li><a target="_self" href="https://devblogs.microsoft.com/oldnewthing/20180122-00/?p=97855" data-test-app-aware-link="">The history of change-packing tools at Microsoft (so far)</a></li>
