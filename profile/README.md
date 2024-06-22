@@ -394,7 +394,7 @@ Sign out and Sign in again. The 'For Testing Purposes' Watermark should now be r
 
 <h2> Building a XP/2003 Embedded Runtime Image </h2>
 
-Use the Target Analyzer probes to create a comprehensive list of all hardware devices installed on the device. You can choose from either of the Target Analyzer probes, Ta.exe or Tap.exe. Ta.exe is a real-mode 16-bit application that can be run using Microsoft MS-DOS. Tap.exe is a protected Microsoft Win32-based application that runs on Microsoft Windows XP or Microsoft Windows 2000 Service Pack (SP) 2 OS that supports Plug and Play. Tap.exe produces a more complete and refined hardware list than Ta.exe.
+"Use the Target Analyzer probes to create a comprehensive list of all hardware devices installed on the device. You can choose from either of the Target Analyzer probes, Ta.exe or Tap.exe. Ta.exe is a real-mode 16-bit application that can be run using Microsoft MS-DOS. Tap.exe is a protected Microsoft Win32-based application that runs on Microsoft Windows XP or Microsoft Windows 2000 Service Pack (SP) 2 OS that supports Plug and Play. Tap.exe produces a more complete and refined hardware list than Ta.exe.
 
 The following list shows the hardware requirements for the Microsoft Windows Preinstallation Environment that is included on the Windows XP Embedded CD 1. 
 
@@ -611,7 +611,7 @@ The CD-ROM may appear empty if it is viewed in Windows Explorer. This is because
 
 Your post-FBA CD-ROM is your bootable CD-ROM. You can immediately deploy this CD-ROM on your system.
  
-If the target directory is not empty, Target Designer prompts you to confirm the deletion of the directory.
+If the target directory is not empty, Target Designer prompts you to confirm the deletion of the directory."
 
 <h2>Windows Vista</h2>
 <p>In a free build the kernel may not build you may have to to use the Windows Research Kernel. Microsoft does not give you the source to WinLogon even in the SSLIP. It's named Winlogon.exe.lc</p>
