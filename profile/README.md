@@ -1,5 +1,4 @@
 ﻿<img src="./images/github-header-image.png">
-<li><a target="_self" href="https://www.wired.com/2015/04/microsoft-open-source-windows-definitely-possible/">Microsoft: An Open Source Windows Is 'Definitely Possible'</a></li>
 
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
@@ -107,6 +106,7 @@
 <li><a target="_self" href="https://devblogs.microsoft.com/oldnewthing/20180122-00/?p=97855" data-test-app-aware-link="">The history of change-packing tools at Microsoft (so far)</a></li>
 <li><a target="_self" href="https://devblogs.microsoft.com/oldnewthing/20181224-00/?p=100545" data-test-app-aware-link="">Random internal Windows terminology: IDW, Razzle, and their forgotten partners IDS and Dazzle</a></li>
 <li><a target="_self" href="https://cybersecurity.att.com/blogs/security-essentials/its-only-a-hacker-if-its-linus-himself" data-test-app-aware-link="">It's Only A Hacker If It's Linus Himself</a></li>
+<li><a target="_self" href="https://www.wired.com/2015/04/microsoft-open-source-windows-definitely-possible/">Microsoft: An Open Source Windows Is 'Definitely Possible'</a></li>
 <li><a target="_self" href="https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/" data-test-app-aware-link="">MINIX: ​Intel's hidden in-chip operating system</a></li>
 <li><a href="https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/">Azure Linux released at Build where Microsoft revealed why it did not fork Fedora</a></li></ul>
 </ul>
