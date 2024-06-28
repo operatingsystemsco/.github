@@ -8,6 +8,7 @@
 </ul>
 
 <h2>Acedemia</h2>
+<p>According to Andrew Tanumbuam top down Operating System design is best, bottom up is more practical.</p>
 <ul>
 <li><a target="_self" href="https://www.psychologytoday.com/us/blog/biocentrism/201112/does-the-soul-exist-evidence-says-yes" data-test-app-aware-link="">Does the Soul Exist? Evidence Says ‘Yes’</a></li> 
 <li><a href="https://news.okstate.edu/magazines/research/research-matters/articles/2017/poetry-building-blocks-engineering.html">Poetry as the building blocks of engineering</a></li>
@@ -32,8 +33,6 @@
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/X86-64">X86-64</a></li>
 </ul>
-
-<p>According to Andrew Tanumbuam top down Operating System design is best, bottom up is more practical.</p>
 
 <h2>My Visual Studio Extension in the Makrketplace</h2>
 
