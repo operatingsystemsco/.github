@@ -35,8 +35,9 @@
 </ul>
 
 <h2>My Visual Studio Extension in the Makrketplace</h2>
-
-<p><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
+<li><a href="https://devblogs.microsoft.com/cppblog/">Visual C++ Team Blog</a></li>
 
 <h2>Relgious Views of Charles Darwin</h2>
 <ul>
