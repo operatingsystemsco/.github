@@ -39,6 +39,11 @@
 <li><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
 </ul>
 
+<h2>MSDN Magazine</h2>
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues">MSDN Magazine</a></li>
+</ul>
+
 <h2>Microsoft Blogs</h2>
 <ul>
 <li><a href="https://devblogs.microsoft.com/">Developer Blogs</a></li>
