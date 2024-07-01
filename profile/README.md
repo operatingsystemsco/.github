@@ -42,6 +42,7 @@
 <h2>MSDN Magazine</h2>
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues">MSDN Magazine</a></li>
+<li><a href="https://www.codemag.com/magazine">CODE Magazine</a></li>
 </ul>
 
 <h2>Microsoft Blogs</h2>
