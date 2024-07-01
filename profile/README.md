@@ -55,6 +55,7 @@
 <h2>Common Desktop Environment</h2>
 <ul>
 <li><a href="https://sourceforge.net/p/cdesktopenv/wiki/FreeBSDBuild/">FreeBSD CDE Build</a></li>
+<li><a href="https://sourceforge.net/p/cdesktopenv/wiki/OpenBSDBuild/">OpenBSD CDE Build</a></li>
 </ul>
 
 <h2>Relgious Views of Charles Darwin</h2>
