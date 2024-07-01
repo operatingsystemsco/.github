@@ -52,7 +52,7 @@
 <li><a href="https://devblogs.microsoft.com/cppblog/">Visual C++ Team Blog</a></li>
 </ul>
 
-<h2>Apple></h2>
+<h2>Apple</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Aqua_(user_interface)">Apple Aqua UI</a></li>
 </ul>
