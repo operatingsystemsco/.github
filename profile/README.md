@@ -51,6 +51,11 @@
 <li><a href="https://devblogs.microsoft.com/cppblog/">Visual C++ Team Blog</a></li>
 </ul>
 
+<h2>Common Desktop Environment</h2>
+<ul>
+<li><a href="https://sourceforge.net/p/cdesktopenv/wiki/FreeBSDBuild/">FreeBSD CDE Build</a></li>
+</ul>
+
 <h2>Relgious Views of Charles Darwin</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin">Reigious Views of Chareles Darwin</a></li>
