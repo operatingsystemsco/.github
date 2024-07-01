@@ -37,10 +37,9 @@
 <h2>My Visual Studio Extension in the Makrketplace</h2>
 <ul>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
-<li><a href="https://devblogs.microsoft.com/cppblog/">Visual C++ Team Blog</a></li>
 </ul>
 
-<h2>Microsoft Blogs></h2>
+<h2>Microsoft Blogs</h2>
 <ul>
 <li><a href="https://devblogs.microsoft.com/">Developer Blogs</a></li>
 <li><a href="https://devblogs.microsoft.com/cppblog/">Visual C++ Team Blog</a></li>
