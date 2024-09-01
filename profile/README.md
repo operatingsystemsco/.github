@@ -10,6 +10,7 @@
 <h2>Acedemia</h2>
 <p>According to Andrew Tanumbuam top down Operating System design is best, bottom up is more practical.</p>
 <ul>
+<li><a target="_self" href="http://ocw.oouagoiwoye.edu.ng/about/mirror-site-program/">MIT Mirror Program</a></li> 
 <li><a target="_self" href="https://www.psychologytoday.com/us/blog/biocentrism/201112/does-the-soul-exist-evidence-says-yes" data-test-app-aware-link="">Does the Soul Exist? Evidence Says ‘Yes’</a></li> 
 <li><a href="https://news.okstate.edu/magazines/research/research-matters/articles/2017/poetry-building-blocks-engineering.html">Poetry as the building blocks of engineering</a></li>
 <li><a href="https://www.minix3.org/" data-test-app-aware-link="">MINX 3</a></li>
