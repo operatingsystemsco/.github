@@ -84,6 +84,11 @@
 <li><a href="https://archive.org/download/Dosch3DAll3DCollection">Dosch 3D All 3D Collection</a></li>
 </ul>
 
+<h2>Daz 3d Studio</h2>
+<ul>
+<li><a href="https://www.daz3d.com/">Daz 3d Studio</a></li>
+</ul>
+
 <h2>Relgious Views of Charles Darwin</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin">Reigious Views of Chareles Darwin</a></li>
