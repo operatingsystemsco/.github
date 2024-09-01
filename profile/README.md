@@ -44,6 +44,11 @@
 <li><a href="https://archive.org/details/sylirana_ms_codeplex_zips">Code Plex Archive</a></li>
 </ul>
 
+<h2>Microsoft Virtual Academy</h2>
+<ul>
+<li><a href="https://archive.org/details/microsoftvirtualacadamy2019">Microsoft Virtual Academy (English) (Part 1)</a></li>
+</ul>
+
 <h2>MSDN Magazine</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Microsoft_Developer_Network#Microsoft_Systems_Journal">Microsoft Systems Journal</a></li>
