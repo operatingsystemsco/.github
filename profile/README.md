@@ -71,6 +71,7 @@
 <h2>AT&T</h2>
 <ul>
 <li><a href="https://archives.loomcom.com/3b2/">AT&T 3B2 Archives</a></li>
+<li><a href="https://9p.io/plan9/">Plan 9</a></li>
 </ul>
 
 <h2>OpenVMS Archive</h2>
