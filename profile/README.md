@@ -121,6 +121,16 @@
 <li><a href="https://en.wikipedia.org/wiki/List_of_open-source_films">Open Source Films</a></li>
 </ul>
 
+<h2>Raytheon</h2>
+<ul>
+<li><a href="https://www.unidata.ucar.edu/software/awips2/">AWIPS</a></li>
+</ul>
+
+<h2>Seismology</h2>
+<ul>
+<li><a href="https://www.iris.edu/hq/sage">SAGE</a></li>
+</ul>
+
 <h2>Relgious Views of Charles Darwin</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin">Reigious Views of Chareles Darwin</a></li>
