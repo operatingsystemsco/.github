@@ -39,7 +39,7 @@
 <li><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
 </ul>
 
-<h2>Code Plex</h2>
+<h2>Microsoft Code Plex</h2>
 <ul>
 <li><a href="https://archive.org/details/sylirana_ms_codeplex_zips">Code Plex Archive</a></li>
 </ul>
@@ -112,6 +112,11 @@
 <h2>Daz 3d Studio</h2>
 <ul>
 <li><a href="https://www.daz3d.com/">Daz 3d Studio</a></li>
+</ul>
+
+<h2>Open Source Films</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_open-source_films">Open Source Films</a></li>
 </ul>
 
 <h2>Relgious Views of Charles Darwin</h2>
