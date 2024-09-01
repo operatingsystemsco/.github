@@ -59,7 +59,7 @@
 
 <h2>OpenVMS Archive</h2>
 <ul>
-<li><a href="http://digiater.nl"></a>OpenVMS Archive</li>
+<li><a href="http://digiater.nl">OpenVMS Archive</a></li>
 </ul>
 
 <h2>Common Desktop Environment</h2>
