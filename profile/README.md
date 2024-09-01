@@ -46,6 +46,11 @@
 <li><a href="https://www.codemag.com/magazine">CODE Magazine</a></li>
 </ul>
 
+<h2>Microsoft SDK's</h2>
+<ul>
+<li><a href="https://archive.org/search?query=directx+sdk+">Direct X SDK's</a></li>
+</ul>
+
 <h2>Microsoft Blogs</h2>
 <ul>
 <li><a href="https://devblogs.microsoft.com/">Developer Blogs</a></li>
