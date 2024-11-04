@@ -212,7 +212,7 @@
 
 <h2>David Bowie</h2>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=OZscv36UUHo&t=6s">Can't Give Everying Away</a></li>
+  <li><a href="https://www.youtube.com/watch?v=OZscv36UUHo&t=6s">Can't Give Everything Away</a></li>
 </ul>
 
 
