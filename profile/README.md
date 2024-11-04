@@ -47,6 +47,7 @@
 <li><a href="https://opensource.apple.com/releases/">Apple Open Source</a></li>
 <li><a href="https://archive.org/details/mac-os-9.2.1-internal">Apple Mac OS 9.2.1 Internal Edition</a></li>
 <li><a href="https://sheepshaver.cebix.net/">Sheep Shaver</a></li>
+<li><a href="https://basilisk.cebix.net/">Basilisk II</a></li>
 </ul>
 
 <h2>My Visual Studio Extension in the Makrketplace</h2>
