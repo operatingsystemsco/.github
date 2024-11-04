@@ -222,7 +222,7 @@
 
 <h2>The Actress Anne Hathaway</h2>
 <ul>
-  <li><a href="https://hathway.azurewebsite.net">My Website for Anne Hathaway</a></li>
+  <li><a href="https://hathaway.azurewebsites.net/">My Website for Anne Hathaway</a></li>
   <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0306453018306516?via%3Dihub">Falling in love is associated with immune system gene regulation</a></li>
 </ul>
 
