@@ -78,6 +78,11 @@
 <li><a href="http://stlab.adobe.com/">Adobe STLAB</a></li>
 </ul>
 
+<h2>Mozilla</h2>
+<ul>
+<li><a href="https://hg.mozilla.org/">Mozilla Mercurial</a></li>
+</ul>
+
 <h2>AT&T</h2>
 <ul>
 <li><a href="https://archives.loomcom.com/3b2/">AT&T 3B2 Archives</a></li>
