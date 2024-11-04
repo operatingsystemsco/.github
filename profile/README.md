@@ -85,6 +85,12 @@
 <li><a href="http://stlab.adobe.com/">Adobe STLAB</a></li>
 </ul>
 
+<h2>Eclipse Foundation</h2>
+<p>Foundation of Flash Builder</p>
+<ul>
+  <li><a href="https://github.com/eclipse">Eclipse</a></li>
+</ul>
+
 <h2>Mozilla</h2>
 <ul>
 <li><a href="https://hg.mozilla.org/">Mozilla Mercurial</a></li>
