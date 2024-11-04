@@ -72,6 +72,7 @@
 
 <h2>Adobe</h2>
 <ul>
+<li><a href="https://sourceforge.net/adobe/wiki/Home/">Adobe Open Source on Sourceforge</a></li>
 <li><a href="https://opensource.adobe.com/">Adobe Open Source</a></li>
 <li><a href="https://sourceforge.net/projects/adobe-source/">Adobe Source Libraries</a></li>
 <li><a href="http://stlab.adobe.com/">Adobe STLAB</a></li>
