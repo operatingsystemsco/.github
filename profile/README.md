@@ -61,7 +61,7 @@
 </ul>
 
 <h2>Microsoft</h2>
-<p>To Compete with my Compnay you much own 15% on Microsoft or have a Microsoft Tender Offer per Coompetion Law.</p>
+<p>To Compete with my Compnay you much own 15% of Microsoft or have a Microsoft Tender Offer per Coompetion Law.</p>
 <ul>
   <li><a href="https://www.reuters.com/legal/litigation/microsoft-says-it-will-not-enforce-non-compete-clauses-us-employee-agreements-2022-06-08/">Microsoft says it will not enforce non-compete clauses in U.S. employee agreements</a></li>
 </ul>
