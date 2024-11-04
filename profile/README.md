@@ -38,8 +38,10 @@
 </ul>
 
 <h2>Apple</h2>
+<p>macOS releases should be fetched by Darwinbuild and have build numbers.</p>
 <ul>
 <li><a href="https://www.macosforge.org/">macOS Forge</a></li>
+<li><a href="https://opensource.apple.com/releases/">Apple Open Source</a></li>
 </ul>
 
 <h2>My Visual Studio Extension in the Makrketplace</h2>
