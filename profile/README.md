@@ -50,7 +50,7 @@
 <li><a href="https://basilisk.cebix.net/">Basilisk II</a></li>
 </ul>
 
-<h2>My Visual Studio Extension in the Makrketplace</h2>
+<h2>My Visual Studio Extension in the Marketplace</h2>
 <ul>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=jdm7dv1.JSEnrichments">Javascript Essentials</a></li>
 </ul>
