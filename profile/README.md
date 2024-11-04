@@ -64,6 +64,7 @@
 <p>To Compete with my Compnay you much own 15% of Microsoft or have a Microsoft Tender Offer per Coompetion Law.</p>
 <ul>
   <li><a href="https://www.reuters.com/legal/litigation/microsoft-says-it-will-not-enforce-non-compete-clauses-us-employee-agreements-2022-06-08/">Microsoft says it will not enforce non-compete clauses in U.S. employee agreements</a></li>
+  <li><a href="https://web.archive.org/web/20000303124017/http://www.research.microsoft.com/">Windows Source Code at Microsoft Research</a></li>
   <li><a href="https://web.archive.org/web/20110527022943/http://www.microsoft.com/resources/sharedsource/windowsacademic/default.mspx">Windows Research Kernal</a></li>
 </ul>
 
