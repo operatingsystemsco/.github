@@ -37,7 +37,7 @@
 <li><a href="https://en.wikipedia.org/wiki/X86-64">X86-64</a></li>
 </ul>
 
-<h2>Apple</h2>
+<h2>Apple Computer</h2>
 <p>macOS releases should be fetched by Darwinbuild and have build numbers.</p>
 <ul>
 <li><a href="https://macintoshgarden.org/apps/operating-systems">Macintosh Garden Operating Systems</a></li>
