@@ -70,6 +70,11 @@
 <li><a href="https://devblogs.microsoft.com/cppblog/">Visual C++ Team Blog</a></li>
 </ul>
 
+<h2>Adobe</h2>
+<ul>
+<li><a href="https://opensource.adobe.com/">Adobe Open Source</a></li>
+</ul>
+
 <h2>AT&T</h2>
 <ul>
 <li><a href="https://archives.loomcom.com/3b2/">AT&T 3B2 Archives</a></li>
