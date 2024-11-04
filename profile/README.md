@@ -40,6 +40,7 @@
 <h2>Apple</h2>
 <p>macOS releases should be fetched by Darwinbuild and have build numbers.</p>
 <ul>
+<li><a href="https://en.wikipedia.org/wiki/Aqua_(user_interface)">Apple Aqua UI</a></li>
 <li><a href="https://www.macosforge.org/">macOS Forge</a></li>
 <li><a href="https://opensource.apple.com/releases/">Apple Open Source</a></li>
 <li><a href="https://archive.org/details/mac-os-9.2.1-internal">Apple Mac OS 9.2.1 Internal Edition</a></li>
@@ -89,7 +90,7 @@
 <h2>Eclipse Foundation</h2>
 <p>Foundation of Flash Builder</p>
 <ul>
-  <li><a href="https://github.com/eclipse">Eclipse</a></li>
+<li><a href="https://github.com/eclipse">Eclipse</a></li>
 </ul>
 
 <h2>Mozilla</h2>
@@ -122,12 +123,6 @@
 <h2>NeXTSTEP</h2>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/NeXTSTEP">NeXTSTEP</li>
-</ul>
-
-<h2>Apple</h2>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Aqua_(user_interface)">Apple Aqua UI</a></li>
-<li><a href="https://www.macosforge.org/">macOS Forge</a></li>
 </ul>
 
 <h2>Walnut Creek</h2>
