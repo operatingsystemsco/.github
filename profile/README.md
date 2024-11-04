@@ -8,7 +8,7 @@
 <li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab --with Microsoft Employees</a></li>
 </ul>
 
-<h2>Puritians Beiliefs</h2>
+<h2>Puritians Beliefs</h2>
 <ul>
 <li><a target="_self" href="https://www.worldhistory.org/Puritans/">Puritians Culture</a></li>
 </ul>
