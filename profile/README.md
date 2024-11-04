@@ -118,6 +118,11 @@
 <li><a href="http://digiater.nl">OpenVMS Archive</a></li>
 </ul>
 
+<h2>Oracle</h2>
+<ul>
+<li><a href="https://docs.oracle.com/en/browseall.html">Oracle A- Z</a></li>
+</ul>
+
 <h2>Hewlett Packard</h2>
 <ul>
 <li><a href="https://archive.org/details/ftp-ftp.hp.com_ftp1">HP FTP Site</a></li>
