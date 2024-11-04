@@ -3,6 +3,7 @@
 <h2>Please Sign the Sphinx Logic and Microsoft CLA<h2>
 <ul>
 <li><a target="_self" href="https://opensource.microsoft.com/cla/">Microsoft CLA</a></li>
+<li><a target="_self" href=" https://opensource.adobe.com/cla.html">Adobe CLA</a></li>
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
 <li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab --with Microsoft Employees</a></li>
 </ul>
