@@ -210,5 +210,10 @@
 <li><a href="https://learn.microsoft.com/en-us/entra/identity/saas-apps/convercent-tutorial">Tutorial: Microsoft Entra integration with Convercent</a></li>
 </ul>
 
+<h2>David Bowie</h2>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=OZscv36UUHo&t=6s">Can't Give Everying Away</a></li>
+</ul>
+
 
 
