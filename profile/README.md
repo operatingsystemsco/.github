@@ -200,11 +200,6 @@
 <li><a href="https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/13571077-e344-4e6f-a477-369894979798">Patent Promises and Patents</a></li>
 </ul>
 
-<h2>Adobe Contibutor Licence Agreement</h2>
-<ul>
-<li><a href="https://opensource.adobe.com/cla.html">Adobe Open Source</a></li>
-</ul>
-
 <h2>Microsoft Legal</h2>
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/entra/identity/saas-apps/convercent-tutorial">Tutorial: Microsoft Entra integration with Convercent</a></li>
