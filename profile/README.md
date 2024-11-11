@@ -156,12 +156,22 @@
 <li><a href="https://archive.org/details/walnutcreekcdrom">Walnut Creek Collection</a></li>
 </ul>
 
+<h2>SGI FTP</h2>
+<ul>
+<li><a href="https://archive.org/details/ftp.sgi.com-archive">SGI FTP</a></li>
+</ul>
+
+<h2>Microsoft FTP</h2>
+<ul>
+<li><a href="https://archive.org/download/ftp.microsoft.com">Microsoft FTP</a></li>
+</ul>
+
 <h2>Maya</h2>
 <ul>
 <li><a href="https://archive.org/download/Dosch3DAll3DCollection">Dosch 3D All 3D Collection</a></li>
 </ul>
 
-<h2>Daz 3d Studio</h2>
+<h2>Daz3d Studio</h2>
 <ul>
 <li><a href="https://www.daz3d.com/">Daz 3d Studio</a></li>
 </ul>
