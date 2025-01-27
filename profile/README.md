@@ -7,6 +7,7 @@
 <li><a target="_self" href="https://cla-assistant.io/">Sphinx Logic CLA</a></li>
 <li><a target="_self" href="https://betawiki.net/wiki/Build_lab">Build Lab --with Microsoft Employees</a></li>
 <li><a target="_self" href="https://www.youtube.com/watch?v=MJ8SCxN1S1M">Hal 9000 explains the future of humanity</a></li> 
+<li><a target="_self" href="https://www.youtube.com/watch?v=7e3v4N0WXVg">The Best Operating System Microsoft Never Released (Longhorn Overview)</a></li> 
 </ul>
 
 <h2>Puritians Beliefs</h2>
